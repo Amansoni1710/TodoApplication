@@ -1,4 +1,4 @@
-![NotFound](https://github.com/Amansoni1710/TodoApplication/blob/main/Screenshot.png"?raw=true)
+![NotFound]("https://raw.githubusercontent.com/Amansoni1710/TodoApplication/main/Screenshot.png"?raw=true)
 
 # TodoList
 
