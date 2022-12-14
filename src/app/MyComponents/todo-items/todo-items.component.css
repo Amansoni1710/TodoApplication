@@ -1,0 +1,20 @@
+.strike{
+    text-decoration: line-through;
+}
+
+.my-4{
+    color:black;
+}
+
+#para{
+    font-family: Cursive;
+    margin-left: 50px;
+}
+
+#head{
+    font-family: Fantasy;
+    margin-left: 20px;
+}
+#btn2{
+    margin-left: 40px;
+}

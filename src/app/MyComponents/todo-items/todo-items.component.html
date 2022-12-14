@@ -1,0 +1,9 @@
+<div class="my-4">
+  <h4 id="head" [ngClass]="{ strike: !todo.active }">{{ todo.title }}</h4>
+  <p id="para" [ngClass]="{ strike: !todo.active }">{{ todo.desc }}</p>
+  <div id="para" class="form-check form-switch">
+    <label class="form-check-label" for="todo{{ index }}">Task Done</label>
+    <input class="form-check-input" (click)="OnCheckBoxClick(todo)" type="checkbox" id="todo{{ index }}" />
+    <button id="btn2" class="btn btn-sm btn-danger" (click)="OnClick(todo)">Delete</button>
+  </div>
+</div>

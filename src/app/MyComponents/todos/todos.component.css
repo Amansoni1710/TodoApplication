@@ -1,0 +1,25 @@
+#main {
+    display: flex;
+    align-items: center; /* Vertical align the elements to the center */
+  }
+
+h3 {
+    margin: 0;
+  }
+  
+button {
+    margin-left: 10px; /* Push this element to the right */ 
+  }
+
+#todoitems{
+  margin-bottom: 10px;
+  background-color: rgb(249, 247, 249);
+  border-radius: 25px;
+  border: 8px double #85a654;
+  /* padding: 20px; */
+}
+
+#head{
+  margin-top: 10px;
+  font-family: "Sofia";
+}

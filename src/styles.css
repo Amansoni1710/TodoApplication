@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+#sect1 {  
+    height: 650 px;  
+    color: #fff;
+    background-image: url("H:\Angular\Todo-List\src\assets\bg.jpeg");  
+    background-size: 100% ;  
+    background-size: cover;
+}
